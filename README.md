@@ -25,15 +25,15 @@ I'm a passionate **Data Scientist and Machine Learning Engineer** based in **Ben
 ## 💼 Professional Experience
 
 ### 📈 Data Analytics & ML Internship
-**Deloitte Australia (Virtual Simulation)** | Ongoing
+**Deloitte Australia (Virtual Simulation)** 
 - Conducted comprehensive exploratory data analysis (EDA) on real business datasets
 - Built predictive models to forecast trends and identify patterns in customer behavior
 - Created data visualizations and dashboards to communicate findings to stakeholders
 - Documented insights and recommendations in professional business reports
 
 ### 🎓 Academic Background
-**B.Tech in [Your Branch]** | Bangalore Technological Institute (BTI), VTU
-- **CGPA:** [Your CGPA] | **Relevant Coursework:** Data Structures, Databases, Machine Learning, Statistics, Cloud Computing, AI
+**B.E in Artificial Intelligence and Machine Learning** | Bangalore Technological Institute (BTI), VTU
+- **CGPA:** 8.7 | **Relevant Coursework:** Data Structures, Databases, Machine Learning, Statistics, Cloud Computing, AI
 - **Key Academic Projects:** Led multiple data science and ML projects with focus on practical implementation and results
 
 ---
@@ -168,7 +168,7 @@ I'm a passionate **Data Scientist and Machine Learning Engineer** based in **Ben
 ## 📫 Let's Connect!
 
 🔗 **LinkedIn:** [linkedin.com/in/nithin](https://linkedin.com/in/your-profile)  
-📧 **Email:** your.email@example.com  
+📧 **Email:** nithi41124113@gmail.com  
 💼 **GitHub:** [github.com/Nithi-121](https://github.com/Nithi-121)  
 🌐 **Portfolio:** [your-portfolio.com](https://your-portfolio.com) *(optional)*
 
