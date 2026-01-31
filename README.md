@@ -69,40 +69,90 @@ I'm a passionate **Data Scientist and Machine Learning Engineer** based in **Ben
 
 ---
 
-## 📂 Featured Projects
-
 ### 🔴 1. **Malware Detection using Deep Learning**
+
 **Building intelligent security solutions with neural networks**
+
 - Developed a **deep learning model** to classify malware vs benign files using static binary features
 - Achieved **high accuracy and F1-score** through careful feature engineering and model optimization
 - Implemented data preprocessing pipeline to handle imbalanced datasets and improve model robustness
 - Demonstrated strong understanding of **cybersecurity fundamentals** and ML application in security
 - **Tech Stack:** Python, TensorFlow/Keras, scikit-learn, pandas, NumPy
 - **Key Learnings:** Deep neural networks, feature extraction, model evaluation metrics, security domain knowledge
-- 📌 [View Repository](https://github.com/Nithi-121/malware-detection-dl)
+- 📌 [View Repository](https://github.com/Nithi-121/Malware-Detection-Using-Deep-Learning-Project)
 
-### 📊 2. **Customer Analytics & Business Intelligence Dashboard**
-**Transforming data into actionable business insights**
-- Analyzed **customer behavior and sales trends** from large-scale business dataset
-- Created **interactive dashboards** with key performance indicators (KPIs) and trend analysis
-- Generated **actionable recommendations** that drive business decisions and strategy
-- Demonstrated proficiency in **data storytelling** and communicating complex insights to non-technical stakeholders
-- **Tech Stack:** Python (pandas, Plotly), Power BI / Tableau, SQL
-- **Key Metrics:** ROI improvement, customer segmentation accuracy, trend prediction reliability
-- 📌 [View Repository](https://github.com/Nithi-121/customer-analytics-dashboard)
+### 📊 2. **Customer Churn Analysis & Prediction**
 
-### 🤖 3. **Predictive Modeling for [Use Case]**
-**Leveraging statistical methods and ML for forecasting**
-- Built **regression/classification models** to predict [specific outcome]
-- Performed **feature selection and hyperparameter tuning** for optimal performance
-- Implemented **cross-validation and model evaluation** techniques to ensure generalization
-- Delivered **production-ready code** with comprehensive documentation
-- **Tech Stack:** Python, scikit-learn, pandas, XGBoost, matplotlib
-- 📌 [View Repository](https://github.com/Nithi-121/predictive-modeling)
+**Predicting customer attrition to drive retention strategies**
+
+- Conducted **comprehensive exploratory data analysis (EDA)** to understand customer behavior patterns
+- Built **machine learning models** (Logistic Regression, Random Forest, XGBoost) to predict churn risk
+- Identified **key factors driving churn** including pricing, service quality, and customer support issues
+- Created **actionable recommendations** for customer retention programs
+- **Tech Stack:** Python (pandas, scikit-learn, XGBoost), Jupyter Notebook, matplotlib, seaborn
+- **Key Metrics:** 85%+ model accuracy, clear feature importance analysis
+- 📌 [View Repository](https://github.com/Nithi-121/Customer-Churn-Analysis-and-Prediction)
+
+### 🗂️ 3. **Google Play Store Data Analysis**
+
+**Data Analytics Bootcamp Project - EDA, Cleaning, and Predictive Modeling**
+
+- Performed **extensive exploratory data analysis** on 10,000+ app records
+- Cleaned and preprocessed data handling missing values, duplicates, and outliers
+- Analyzed **app trends, categories, ratings, and download patterns**
+- Built **predictive models** for app success metrics
+- Generated **business insights** on high-performing app categories and features
+- **Tech Stack:** Python (pandas, NumPy, matplotlib, seaborn), Jupyter Notebook
+- 📌 [View Repository](https://github.com/Nithi-121/google-playstore-data-analysis)
+
+### 🅿️ 4. **Mall Parking Management System**
+
+**Automated vehicle entry, exit, and billing with OCR technology**
+
+- Built a **Python desktop application** with GUI for parking management
+- Integrated **OCR (OpenCV + Tesseract)** to automatically read vehicle license plates
+- Implemented **automated billing system** for vehicle entry and exit
+- Stored all records on **Supabase cloud database** for scalability
+- Features include real-time vehicle tracking, billing calculation, and admin reports
+- **Tech Stack:** Python, OpenCV, Tesseract OCR, Tkinter (GUI), Supabase
+- **Key Achievement:** Reduced manual data entry by 95%
+- 📌 [View Repository](https://github.com/Nithi-121/Mall-parking-system)
+
+### 🚁 5. **Real-Time Computer Vision & Deep Learning-Based Drone Tracking System**
+
+**AI-powered autonomous drone tracking using YOLOv8**
+
+- Developed a **real-time object detection system** using YOLOv8 for autonomous tracking
+- Integrated **gesture-based control** for drone maneuvers and commands
+- Implemented **person tracking and following** with DJI Tello drone
+- Built a **complete pipeline** from detection to control signals
+- **Tech Stack:** Python, YOLOv8, DJI Tello SDK, OpenCV, Deep Learning
+- **Key Features:** Real-time detection, autonomous tracking, gesture recognition
+- 📌 [View Repository](https://github.com/Nithi-121/Real-Time-Computer-Vision-and-Deep-Learning-Based-Drone-Tracking-System-using-DJI-Tello)
+
+### 💬 6. **NextJen AI Chatbot & NextGen Mentor Applications**
+
+**Full-stack AI applications with modern web technologies**
+
+- Developed **AI-powered chatbot** for conversational assistance
+- Built **mentorship platform** (NextGen Mentor) connecting users with AI guidance
+- Implemented **TypeScript-based backend** for type-safe development
+- Integrated **modern web frameworks** for responsive user interfaces
+- **Tech Stack:** TypeScript, Next.js, AI/ML APIs, React
+- **Key Features:** Natural language processing, user authentication, real-time responses
+- 📌 [View Repositories]([NextJen](https://github.com/Nithi-121/nextjen-ai-chatbot) | [NextGen Mentor](https://github.com/Nithi-121/nextgen-mentor))
+
+### 📚 7. **Generative AI for Beginners (Microsoft Repo)**
+
+**Comprehensive learning resource for generative AI concepts**
+
+- Contributed to **Microsoft's open-source course** on generative AI fundamentals
+- Studied **21 lessons** covering LLMs, prompt engineering, and applications
+- Gained hands-on experience with **OpenAI APIs and modern AI patterns**
+- **Key Topics:** Foundation models, embeddings, RAG, fine-tuning
+- 📌 [View Repository](https://github.com/Nithi-121/generative-ai-for-beginners)
 
 > 💡 **Each project includes:** detailed README, reproducible code, dataset information, methodology, results, and instructions for running the analysis.
-
----
 
 ## 📚 Core Competencies
 
