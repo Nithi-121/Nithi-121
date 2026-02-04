@@ -249,19 +249,6 @@ I'm a passionate **Data Scientist and Machine Learning Engineer** based in **Ben
 - Tech Stack: **GitHub, Markdown, Profile Management**
 - Key Features: Project showcase, professional links, contribution tracking, portfolio management
 - 📌 [View Repository](https://github.com/Nithi-121/Nithin)
-
-- ## 🐁 15. Desktop Tutorial
-
-**Learning resource and tutorial for desktop application development**
-
-- Created a **comprehensive desktop application tutorial** for beginners
-- Provides **step-by-step guidance** for building desktop applications
-- Covers **desktop frameworks** and **best practices**
-- Includes **practical examples** and **hands-on projects**
-- Tech Stack: **Various Desktop Frameworks, Tutorials**
-- Key Features: Interactive tutorials, code examples, beginner-friendly, practical projects
-- 📌 [View Repository](https://github.com/Nithi-121/desktop-tutorial)
-
 > 💡 **Each project includes:** detailed README, reproducible code, dataset information, methodology, results, and instructions for running the analysis.
 
 ## 📚 Core Competencies
