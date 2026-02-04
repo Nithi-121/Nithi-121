@@ -151,6 +151,116 @@ I'm a passionate **Data Scientist and Machine Learning Engineer** based in **Ben
 - Gained hands-on experience with **OpenAI APIs and modern AI patterns**
 - **Key Topics:** Foundation models, embeddings, RAG, fine-tuning
 - 📌 [View Repository](https://github.com/Nithi-121/generative-ai-for-beginners)
+- 
+## 💻 8. ATS-Resume-Analyzer
+
+**AI-powered resume analyzer that parses, scores, and optimizes job applications**
+
+- Built an **ATS (Applicant Tracking System) friendly resume analyzer** that evaluates resumes against job descriptions
+- Performs **keyword extraction and skill gap analysis** to identify missing competencies
+- Provides **actionable suggestions** to improve job match rates and ATS compatibility
+- Analyzes **resume formatting** for ATS optimization
+- Tech Stack: **TypeScript, Next.js, Python, NLP libraries**
+- Key Features: Resume parsing, keyword matching, score generation, skill recommendations
+- 📌 [View Repository](https://github.com/Nithi-121/ATS-Resume-Analyzer)
+
+---
+
+## 🤖 9. NextJS AI Chatbot
+
+**Full-stack conversational AI application with Next.js**
+
+- Developed a **modern AI chatbot** using Next.js and TypeScript
+- Integrated **real-time chat interface** with AI response generation
+- Implemented **conversation history management** and user sessions
+- Built responsive **UI components** for seamless user interaction
+- Tech Stack: **TypeScript, Next.js, React, AI APIs**
+- Key Features: Real-time responses, chat history, responsive design, API integration
+- 📌 [View Repository](https://github.com/Nithi-121/nextjs-ai-chatbot)
+
+---
+
+## 🎯 10. Next-Gen Guidance
+
+**Guidance and mentorship platform leveraging AI**
+
+- Created a **comprehensive guidance platform** for career and learning support
+- Implemented **personalized recommendations** based on user profiles
+- Integrated **AI-driven insights** for better guidance quality
+- Built features for **tracking progress** and **achieving goals**
+- Tech Stack: **Next.js, TypeScript, React, AI Integration**
+- Key Features: Personalized guidance, goal tracking, AI recommendations, user profiles
+- 📌 [View Repository](https://github.com/Nithi-121/next-gen-guidance)
+
+---
+
+## 👨‍🏫 11. NextGen Mentor
+
+**Advanced mentorship platform connecting mentors and mentees with AI assistance**
+
+- Developed a **full-featured mentorship platform** for professional development
+- Implemented **mentor-mentee matching algorithm** based on skills and interests
+- Integrated **AI-powered session recommendations** and guidance
+- Built **progress tracking and milestone management** features
+- Included **communication tools** for structured mentoring
+- Tech Stack: **Next.js, TypeScript, React, Backend Services**
+- Key Features: Mentor matching, AI-powered guidance, progress tracking, communication tools
+- 📌 [View Repository](https://github.com/Nithi-121/nextgen-mentor)
+
+---
+
+## 📱 12. NextJen AI Chatbot
+
+**Advanced AI chatbot application with modern frontend and backend integration**
+
+- Developed **NextJen AI chatbot** for conversational interactions
+- Built **intuitive user interface** for chat interactions
+- Integrated **multiple AI models** for diverse conversation types
+- Implemented **context awareness** for meaningful responses
+- Added **user feedback system** for continuous improvement
+- Tech Stack: **TypeScript, Next.js, React, AI/ML APIs**
+- Key Features: Multi-model AI, context-aware responses, feedback system, modern UI
+- 📌 [View Repository](https://github.com/Nithi-121/nextjen-ai-chatbot)
+
+- ## 🚀 13. Auto-Track - Smart Aerial Object Tracking with Deep Learning
+
+**Published AI-powered autonomous drone tracking system using computer vision**
+
+- Created an **advanced autonomous drone tracking system** using YOLOv8 and deep learning
+- Implemented **real-time object detection and tracking** for moving targets
+- Built **intelligent gesture-based control system** for drone maneuvers
+- Developed **person tracking and autonomous following** capabilities
+- Integrated **efficient duct prediction** for smooth trajectory tracking
+- **Published research work** demonstrating practical applications of computer vision in robotics
+- Tech Stack: **Python, YOLOv8, Deep Learning, Computer Vision, DJI SDK**
+- Key Features: Real-time detection, autonomous tracking, gesture recognition, trajectory prediction
+- 📌 [View Repository](https://github.com/Nithi-121/Auto-Track-Smart-Aerial-Drone-with-Deep-Learning-and-Computer-Vision-CV-)
+
+---
+
+## 👤 14. Nithin (Personal Portfolio Repository)
+
+**Personal profile repository showcasing projects and professional information**
+
+- Maintained a **dedicated repository** for personal branding and portfolio management
+- Organized **project documentation** and **professional links**
+- Created a **central hub** for all professional activities and achievements
+- Showcases **GitHub contributions** and **project portfolio**
+- Tech Stack: **GitHub, Markdown, Profile Management**
+- Key Features: Project showcase, professional links, contribution tracking, portfolio management
+- 📌 [View Repository](https://github.com/Nithi-121/Nithin)
+
+- ## 🐁 15. Desktop Tutorial
+
+**Learning resource and tutorial for desktop application development**
+
+- Created a **comprehensive desktop application tutorial** for beginners
+- Provides **step-by-step guidance** for building desktop applications
+- Covers **desktop frameworks** and **best practices**
+- Includes **practical examples** and **hands-on projects**
+- Tech Stack: **Various Desktop Frameworks, Tutorials**
+- Key Features: Interactive tutorials, code examples, beginner-friendly, practical projects
+- 📌 [View Repository](https://github.com/Nithi-121/desktop-tutorial)
 
 > 💡 **Each project includes:** detailed README, reproducible code, dataset information, methodology, results, and instructions for running the analysis.
 
