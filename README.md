@@ -1,4 +1,25 @@
-<h1 align="center">👋 Hi, I'm Nithin</h1>
+<style>
+  @keyframes wave {
+    0%, 100% { transform: rotate(0deg); }
+    25% { transform: rotate(14deg); }
+    50% { transform: rotate(0deg); }
+    75% { transform: rotate(-14deg); }
+  }
+  @keyframes bounce {
+    0%, 100% { transform: translateY(0); }
+    50% { transform: translateY(-10px); }
+  }
+  @keyframes spin {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+  }
+  .wave-emoji { display: inline-block; animation: wave 0.6s infinite; transform-origin: 70% 70%; }
+  .bounce-emoji { display: inline-block; animation: bounce 0.6s infinite; }
+  .spin-emoji { display: inline-block; animation: spin 2s linear infinite; }
+</style>
+
+<h1 align="center"><span class="wave-emoji">👋</span> Hi, I'm Nithin</h1>
+
 <h3 align="center">Data Scientist | Machine Learning Engineer | AI Enthusiast</h3>
 
 <p align="center">
@@ -13,9 +34,9 @@
 
 I'm a passionate **Data Scientist and Machine Learning Engineer** based in **Bengaluru, India**, dedicated to solving real-world problems through data-driven solutions and intelligent algorithms. With a strong foundation in **Python, SQL, and ML frameworks**, I specialize in building end-to-end ML pipelines—from data preprocessing to model deployment—that create measurable business impact.
 
-✨ **What I Do:**
+<span class="spin-emoji">✨</span> **What I Do:**
 - 🔬 Develop and deploy **machine learning models** for classification, regression, and clustering tasks
-- 📊 Transform raw data into **actionable insights** through exploratory data analysis and visualization
+- <span class="bounce-emoji">📊</span> Transform raw data into **actionable insights** through exploratory data analysis and visualization
 - 🧠 Work on **deep learning projects** including neural networks and specialized architectures
 - 🛡️ Build solutions for **cybersecurity, fraud detection, and anomaly detection**
 - ☁️ Leverage cloud platforms for **scalable ML deployments**
@@ -31,14 +52,14 @@ I'm a passionate **Data Scientist and Machine Learning Engineer** based in **Ben
 - Created data visualizations and dashboards to communicate findings to stakeholders
 - Documented insights and recommendations in professional business reports
 
-### 🎓 Academic Background
+### <span class="bounce-emoji">🎓</span> Academic Background
 **B.E in Artificial Intelligence and Machine Learning** | Bangalore Technological Institute (BTI), VTU
 - **CGPA:** 8.7 | **Relevant Coursework:** Data Structures, Databases, Machine Learning, Statistics, Cloud Computing, AI
 - **Key Academic Projects:** Led multiple data science and ML projects with focus on practical implementation and results
 
 ---
 
-## 🛠️ Technical Skills
+## <span class="spin-emoji">🛠️</span> Technical Skills
 
 <table>
   <tr>
@@ -69,7 +90,7 @@ I'm a passionate **Data Scientist and Machine Learning Engineer** based in **Ben
 
 ---
 
-### 🔴 1. **Malware Detection using Deep Learning**
+### <span class="bounce-emoji">🔴</span> 1. **Malware Detection using Deep Learning**
 
 **Building intelligent security solutions with neural networks**
 
@@ -81,7 +102,7 @@ I'm a passionate **Data Scientist and Machine Learning Engineer** based in **Ben
 - **Key Learnings:** Deep neural networks, feature extraction, model evaluation metrics, security domain knowledge
 - 📌 [View Repository](https://github.com/Nithi-121/Malware-Detection-Using-Deep-Learning-Project)
 
-### 📊 2. **Customer Churn Analysis & Prediction**
+### <span class="bounce-emoji">📊</span> 2. **Customer Churn Analysis & Prediction**
 
 **Predicting customer attrition to drive retention strategies**
 
@@ -93,7 +114,7 @@ I'm a passionate **Data Scientist and Machine Learning Engineer** based in **Ben
 - **Key Metrics:** 85%+ model accuracy, clear feature importance analysis
 - 📌 [View Repository](https://github.com/Nithi-121/Customer-Churn-Analysis-and-Prediction)
 
-### 🗂️ 3. **Google Play Store Data Analysis**
+### <span class="bounce-emoji">🗂️</span> 3. **Google Play Store Data Analysis**
 
 **Data Analytics Bootcamp Project - EDA, Cleaning, and Predictive Modeling**
 
@@ -291,7 +312,7 @@ I'm a passionate **Data Scientist and Machine Learning Engineer** based in **Ben
 
 ---
 
-## 🎓 Certifications & Learning
+## <span class="bounce-emoji">🎓</span> Certifications & Learning
 
 - 📜 **AI and Data Scientist** - OneRoadmap (Oct 2025)
 
@@ -320,7 +341,7 @@ I'm a passionate **Data Scientist and Machine Learning Engineer** based in **Ben
 💼 **GitHub:** [github.com/Nithi-121](https://github.com/Nithi-121)  
 🌐 **Portfolio:** [your-portfolio.com](https://your-portfolio.com) *(optional)*
 
-### 👨‍💼 For Recruiters & Hiring Managers
+###<span class="spin-emoji">🔍</span>  For Recruiters & Hiring Managers
 
 I am **actively seeking opportunities** in:
 - ✅ Data Science Internships & Full-time Roles
@@ -332,10 +353,9 @@ If my profile aligns with your team's requirements, I'd love to discuss how I ca
 
 ---
 
-## ⭐ Support My Work
+## <span class="bounce-emoji">⭐</span> Support My Work
 
-If you find my projects interesting or useful, consider giving them a **GitHub star**! It helps me stay motivated and track what resonates with the community. Your feedback and suggestions are always welcome. 🙏
-
+If you find my projects interesting or useful, consider giving them a **GitHub star**! It helps me stay motivated and track what resonates with the community. Your feedback and suggestions are always welcome. 🙏<span cl<span class="bounce-emoji">🙏</span>
 ---
 
 <p align="center">
