@@ -1,23 +1,3 @@
-<style>
-  @keyframes wave {
-    0%, 100% { transform: rotate(0deg); }
-    25% { transform: rotate(14deg); }
-    50% { transform: rotate(0deg); }
-    75% { transform: rotate(-14deg); }
-  }
-  @keyframes bounce {
-    0%, 100% { transform: translateY(0); }
-    50% { transform: translateY(-10px); }
-  }
-  @keyframes spin {
-    0% { transform: rotate(0deg); }
-    100% { transform: rotate(360deg); }
-  }
-  .wave-emoji { display: inline-block; animation: wave 0.6s infinite; transform-origin: 70% 70%; }
-  .bounce-emoji { display: inline-block; animation: bounce 0.6s infinite; }
-  .spin-emoji { display: inline-block; animation: spin 2s linear infinite; }
-</style>
-
 <h1 align="center"><span class="wave-emoji">👋</span> Hi, I'm Nithin</h1>
 
 <h3 align="center">Data Scientist | Machine Learning Engineer | AI Enthusiast</h3>
